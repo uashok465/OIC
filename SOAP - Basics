@@ -1,0 +1,7 @@
+#### SOAP Webservices - Basics #########
+  Below are the sample soap webservices endpoints from Oracle Fusion Applications.
+  https://docs.oracle.com/en/cloud/saas/financials/24b/index.html  -> Main Page
+  https://docs.oracle.com/en/cloud/saas/financials/24b/oeswf/erpintegrationservice-d16476e420.html#u30248123 -> Specific to ERP Integrations
+
+  Service WSDL URL: https://servername/fscmService/ErpIntegrationService?WSDL
+                           <replace ser>
